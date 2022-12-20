@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/DeproOs/Asincronismo-javascript/issues"
   },
-  "homepage": "https://github.com/DeproOs/Asincronismo-javascript#readme"
+  "homepage": "https://github.com/DeproOs/Asincronismo-javascript#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
