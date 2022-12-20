@@ -1,0 +1,22 @@
+{
+  "name": "asincronismo_javascript",
+  "version": "1.0.0",
+  "description": "Curso de asincronismo JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeproOs/Asincronismo-javascript.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Claudio Alvarez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DeproOs/Asincronismo-javascript/issues"
+  },
+  "homepage": "https://github.com/DeproOs/Asincronismo-javascript#readme"
+}
